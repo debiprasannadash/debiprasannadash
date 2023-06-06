@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @debiprasannadash
-- 👀 I’m interested in doing Competitive Coding and AI&Ml
-- 🌱 I’m currently learning WEB Development
+- 👀 I’m aiming to become a software developer
+- 🌱 I’m currently learning WEB Development as well as started doing competitve coding👨🏻‍💻
 - 💞️ I’m looking to collaborate on Projects that have a mass impact
 - 📫 Reach me @ dp.dash12@gmail.com
 
