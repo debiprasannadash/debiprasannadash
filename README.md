@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Debi Prasanna Dash</h1>
 <h3 align="center">A passionate Web developer from Odisha,India</h3>
 <p align="center">
-  <img src="https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" class="img" alt="coding gif">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0Xxxqn0zHHbBzmWIrkRATB&ust=1725793904327000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOiK0MHZsIgDFQAAAAAdAAAAABAE" class="img" alt="coding gif">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debiprasannadash&label=Profile%20views&color=0e75b6&style=flat" alt="debiprasannadash" /> </p>
