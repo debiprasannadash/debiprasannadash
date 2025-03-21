@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/dash12_dp" target="blank"><img src="https://img.shields.io/twitter/follow/dash12_dp?logo=twitter&style=for-the-badge" alt="dash12_dp" /></a> </p>
 
-- 🔭 I’m currently working on **Konnexions Website Redesign**
+- 🔭 I’m currently working on **Kodessphere V2.0 Hackathon Website(Frontend)**
 
 - 🌱 I’m currently learning **Web-Development and AI**
 
