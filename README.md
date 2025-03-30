@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debi Prasanna Dash</h1>
-<h3 align="center">A Web developer in processing from Odisha,India</h3>
+<h3 align="center">A passionate Web developer from Odisha,India</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" class="img" alt="coding gif">
 </p>
